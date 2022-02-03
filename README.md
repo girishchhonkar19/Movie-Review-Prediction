@@ -6,7 +6,7 @@ Sentiment analysis is a natural language processing problem where text is unders
 what we will discover in this project are:
 
  - About the sentiment analysis problem for natural language processing and how to load it in Naive Bayes.
- - How to use Bag of word model for data cleaning 
+ - How to use **Bag of word** model for data cleaning 
  - How to work with files in python
  - How to make prediction using Multinomial Naive Bayes and Multivariate Bernoulli Naive Bayes. 
  - How to get score of your prediction
